@@ -1,15 +1,12 @@
-# non อัพเดตแล้ว
+# ꧁༺P҉A҉O҉B҉O҉T҉L҉I҉N҉E҈༻꧂ อัพเดตแล้ว
 
-NON BOT LINE
-
-
-
-Bot flex non bot line 
+꧁༺P҉A҉O҉B҉O҉T҉L҉I҉N҉E҈༻꧂
 
 
-Botflex by. Non
+Bot flex  ꧁༺P҉A҉O҉B҉O҉T҉L҉I҉N҉E҈༻꧂
 
-สคลิปคนเหี้ย แจกฟรีไม่คิดตังค์
+
+Botflex by.꧁༺P҉A҉O҉B҉O҉T҉L҉I҉N҉E҈༻꧂
 
 apt-get install nodejs -y
 
@@ -83,4 +80,3 @@ Bot flex by. non bot line
 
  (free) scip 
 
-คนเหี้ยแจกฟรีไม่คิดเงิน
