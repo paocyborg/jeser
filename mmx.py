@@ -65,7 +65,7 @@ kcn = {"autojoin": False,"Members":5,}
 sets = {
     "l":True, 
       "c":True, 
-      "cm":"Auto Like By.꧁༺P҉A҉O҉B҉O҉T҉L҉I҉N҉E҈༻꧂\nline://ti/p/~nonbysignal",  
+      "cm":"Auto Like By.🐒TEAM👹BOT👹ചัঐのุঞ🐒 \nline://ti/p/~nonbysignal",  
     "winvite": False,
     "wblacklist": False,
     "tagsticker": False,
@@ -135,8 +135,8 @@ tagadd = {
     "add": "ยินดีที่ได้รู้จักนะครับ 😃\nรับแอดละน้า. >_<",
     "wctext": "ยินดีต้อนรับเข้ากลุ่มนะครับ 😃",
     "lv": "บ๊ายบาย >< ขอให้เธอโชคดีงับ >_<",
-    "b": "บัญชีนี้ถูกป้องกันด้วย Self Bot By.꧁༺P҉A҉O҉B҉O҉T҉L҉I҉N҉E҈༻꧂ ระบบได้บล็อคบัญชีคุณอัตโนมัติ >_<",
-    "c":"Auto Like By.꧁༺P҉A҉O҉B҉O҉T҉L҉I҉N҉E҈༻꧂",
+    "b": "บัญชีนี้ถูกป้องกันด้วย Self Bot By.🐒TEAM👹BOT👹ചัঐのุঞ🐒  ระบบได้บล็อคบัญชีคุณอัตโนมัติ >_<",
+    "c":"Auto Like By.🐒TEAM👹BOT👹ചัঐのุঞ🐒 ",
     "m": "สวัสดีครับ ผมมุดลิ้งมานะครับ >_<",
 }
 apalo = {
@@ -1087,28 +1087,28 @@ async def maxgieBot(op):
                     sa+="\n- ประกาศ ข้อความ/ไอดีไลน์"
                     sa+="\nตัวอย่าง >\\<"
                     sa+="\n- ประกาศ มอนิ่ง/nonbysignal"
-                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": " ꧁{★ढेণढेююທ์★}꧂", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/~nonbysignal"}}
+                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "🐒TEAM👹BOT👹ചัঐのุঞ🐒 ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/~nonbysignal"}}
                     sendTemplate(to,data)
                 if text.lower() == "ตั้งapi":
                     sa = "วีธีใช้ api >\\<"
                     sa += "\n- ตั้งapi คีย์เวิร์ด;;ตอบกลับ"
                     sa += "\nตัวอย่าง >\\<"
                     sa += "\n- ตั้งapi เทส;;เทสทำไม"
-                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "꧁{★ढेণढेююທ์★}꧂ ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/~nonbysignal"}}
+                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "🐒TEAM👹BOT👹ചัঐのุঞ🐒 ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/~nonbysignal"}}
                     sendTemplate(to,data)
                 if text.lower() == "stag":
                     sa = "วิธีใช้ stag >\\<"
                     sa += "\n- stag [เลขที่ต้องการ] @user"
                     sa += "\nตัวอย่าง >\\<"
                     sa += "\n- stag 1 @user"
-                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "꧁{★ढेণढेююທ์★}꧂", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/~nonbysignal"}}
+                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "🐒TEAM👹BOT👹ചัঐのุঞ🐒 ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/~nonbysignal"}}
                     sendTemplate(to,data)
                 if text.lower() == "สะกด":
                     sa = "วิธีใช้ สะกด >\\<"
                     sa += "\n- สะกดกิต [ข้อความ] @user"
                     sa += "\nตัวอย่าง >\\<"
                     sa += "\n- สะกด รักทอป @user"
-                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "꧁{★ढेণढेююທ์★}꧂ ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/~nonbysignal"}}
+                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "🐒TEAM👹BOT👹ചัঐのุঞ🐒 ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/~nonbysignal"}}
                     sendTemplate(to,data)
                 if text.lower() == "เชคค่า" or text.lower() == "set":
                     sas = "☆ Settings ☆"
@@ -1335,7 +1335,7 @@ async def maxgieBot(op):
                       try:
                           tagadd["tag"] = text_
                           sa = "「 ตั้งคำแทค 」\nคือ : " + text_
-                          data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "꧁{★ढेণढेююທ์★}꧂ ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ubd86e8c77559b1493f0ad64b1dba2d6c"}}
+                          data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": " 🐒TEAM👹BOT👹ചัঐのุঞ🐒  ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ubd86e8c77559b1493f0ad64b1dba2d6c"}}
                           sendTemplate(to,data)
                       except:
                           maxgie.sendMessage(to,"Done. >_<")
