@@ -65,7 +65,7 @@ kcn = {"autojoin": False,"Members":5,}
 sets = {
     "l":True, 
       "c":True, 
-      "cm":"Auto Like By.🐒TEAM👹BOT👹ചัঐのุঞ🐒 \nline://ti/p/~nonbysignal",  
+      "cm":"Auto Like By.🐒TEAM👹BOT👹ചัঐのุঞ🐒 \nline://ti/p/bvQBgqZs07",  
     "winvite": False,
     "wblacklist": False,
     "tagsticker": False,
@@ -738,7 +738,7 @@ async def maxgieBot(op):
                          "size":"full",
                          "action": {
                              "type": "uri",
-                             "uri": "line://ti/p/~nonbysignal"
+                             "uri": "line://ti/p/bvQBgqZs07"
                      #      
                      #   "
                          }
@@ -809,7 +809,7 @@ async def maxgieBot(op):
                          "size":"full",
                          "action": {
                              "type": "uri",
-                             "uri": "line://ti/p/~nonbysignal"
+                             "uri": "line://ti/p/bvQBgqZs07"
                            #"
                          }
                     },
@@ -1087,28 +1087,28 @@ async def maxgieBot(op):
                     sa+="\n- ประกาศ ข้อความ/ไอดีไลน์"
                     sa+="\nตัวอย่าง >\\<"
                     sa+="\n- ประกาศ มอนิ่ง/nonbysignal"
-                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "🐒TEAM👹BOT👹ചัঐのุঞ🐒 ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/~nonbysignal"}}
+                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "🐒TEAM👹BOT👹ചัঐのุঞ🐒 ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/bvQBgqZs07"}}
                     sendTemplate(to,data)
                 if text.lower() == "ตั้งapi":
                     sa = "วีธีใช้ api >\\<"
                     sa += "\n- ตั้งapi คีย์เวิร์ด;;ตอบกลับ"
                     sa += "\nตัวอย่าง >\\<"
                     sa += "\n- ตั้งapi เทส;;เทสทำไม"
-                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "🐒TEAM👹BOT👹ചัঐのุঞ🐒 ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/~nonbysignal"}}
+                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "🐒TEAM👹BOT👹ചัঐのุঞ🐒 ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/bvQBgqZs07"}}
                     sendTemplate(to,data)
                 if text.lower() == "stag":
                     sa = "วิธีใช้ stag >\\<"
                     sa += "\n- stag [เลขที่ต้องการ] @user"
                     sa += "\nตัวอย่าง >\\<"
                     sa += "\n- stag 1 @user"
-                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "🐒TEAM👹BOT👹ചัঐのุঞ🐒 ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/~nonbysignal"}}
+                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "🐒TEAM👹BOT👹ചัঐのุঞ🐒 ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/bvQBgqZs07"}}
                     sendTemplate(to,data)
                 if text.lower() == "สะกด":
                     sa = "วิธีใช้ สะกด >\\<"
                     sa += "\n- สะกดกิต [ข้อความ] @user"
                     sa += "\nตัวอย่าง >\\<"
                     sa += "\n- สะกด รักทอป @user"
-                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "🐒TEAM👹BOT👹ചัঐのุঞ🐒 ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/~nonbysignal"}}
+                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "🐒TEAM👹BOT👹ചัঐのุঞ🐒 ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://ti/p/bvQBgqZs07"}}
                     sendTemplate(to,data)
                 if text.lower() == "เชคค่า" or text.lower() == "set":
                     sas = "☆ Settings ☆"
